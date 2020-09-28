@@ -3,7 +3,7 @@ reverts github's awful redesign for their desktop client
 
 # Why?
 
-The new design looks horrible and is way to rounded. They quite literally changed 3 lines of CSS and called it a day without testing anything. It's buggy and looks disgusting. On primer-based sites it looks decent, but desktop doesn't utilize primer. It simply doesn't fit the already existing design language.
+The new design looks horrible and is way too rounded. They quite literally changed 3 lines of CSS and called it a day without testing anything. It's buggy and looks disgusting. On primer-based sites it looks decent, but desktop doesn't utilize primer. It simply doesn't fit the already existing design language.
 
 # Installation
 
